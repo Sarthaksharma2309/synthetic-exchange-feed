@@ -1,0 +1,17 @@
+build*/
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+.vscode/*
+!.vscode/settings.json
+data/*.bin
+!data/sample_*.bin
+hdb/
+tplog_*
+vendor/kx/*
+!vendor/kx/.gitkeep
+*.lic
+.env
+.DS_Store
