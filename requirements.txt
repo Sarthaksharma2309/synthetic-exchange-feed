@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+statsmodels
+arch
+matplotlib
+pytest
+jupyter
+pybind11
+duckdb
+pyarrow
+redis
